@@ -1,27 +1,65 @@
-# Search
+# Github Searcher
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
-## Development server
+## List Of Contributors
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Isaac Bihengoto
 
-## Code scaffolding
+## Setup/Installation Requirements
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+A web browser
 
-## Build
+The web browser should support HTML5
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+It is flexible and user friendly GUI
 
-## Running unit tests
+Supports JavaScript
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Ensure you have npm, angular and Node JS installed
 
-## Running end-to-end tests
+Run a Server
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Use a browser to see the contents of the application by use of localhost,specify in your case which you are using.
 
-## Further help
+## Technologies used
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Angular
+
+HTML
+
+CSS
+
+BOOTSTRAP
+
+NodeJS
+
+## Known Bugs
+NO known bugs as at the moment please reach to us if you see any.
+
+## Behavior Driven Development
+
+
+| __Behavior__  | __Input example__ | __Output example__ |
+| ------------- | ----------------- | ------------------ |
+| Displays username, URL of the github page, repositories, followers and following | Enter the username in the search box and hit search   | Displays username, number of repositories, followers and followings |
+
+## Technologies Used
+## main languages used are
+* JavaSCript
+* HTML5
+* CSS
+* TypeScript
+* bootstrap
+* Angular Famework
+
+
+## You can view active website here #################
+## Support and Contact Details
+
+For more information on the app or if you may come across any issues you can contact me via email at isaacbihengoto@gmail.com
+
+### License
+*License is under MIT 2019*
+Copyright (c) 2019 **isaac bihengoto**
+This software is free to use and distribute, Therefore all rights and given to any user to modify and either use for Commercial purpose or local purpose.
