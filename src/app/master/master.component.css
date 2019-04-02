@@ -4,26 +4,31 @@
 }
 
 .card-header {
-  background-color: #606060;
+  background-color: #A0522D;
   text-align: center;
   color: white;
   border: none;
 }
 
 .card-body {
-  background-color: #dddddd;
+  background-color: ##FFFFE0;
 }
 
-.first {
-  background-color: #606060;
+.card-footer {
+  background-color: #A0522D;
   text-align: center;
   color: white;
-  border: hidden;
+  /* border: hidden; */
+}
+.name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 body {
-  /* background-color: black; */
-  background-image: url('/assets/ian1.jpg');
+  background-size: cover;
+  background-image: url('/assets/git1.jpeg');
 }
 
 #swara {

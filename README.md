@@ -1,5 +1,8 @@
 # Github Searcher
 
+It is an angular application whose main purpose is to search for a particular github user. One uses the username to search
+for the user which displays specific details such as the number of the repositories made by the person in the said profile.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ## List Of Contributors
