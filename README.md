@@ -1,4 +1,4 @@
-<!-- # Github Searcher
+# Github Searcher
 
 It is an angular application whose main purpose is to search for a particular github user. One uses the username to search
 for the user which displays specific details such as the number of the repositories made by the person in the said profile.
@@ -38,9 +38,9 @@ BOOTSTRAP
 NodeJS
 
 ## Known Bugs
-NO known bugs as at the moment please reach to us if you see any. -->
+NO known bugs as at the moment please reach to us if you see any.
 
-## Behavior Driven Development
+<!-- ## Behavior Driven Development
 
 
 | __Behavior__  | __Input example__ | __Output example__ |
@@ -65,4 +65,4 @@ For more information on the app or if you may come across any issues you can con
 ### License
 *License is under MIT 2019*
 Copyright (c) 2019 **isaac bihengoto**
-This software is free to use and distribute, Therefore all rights and given to any user to modify and either use for Commercial purpose or local purpose.
+This software is free to use and distribute, Therefore all rights and given to any user to modify and either use for Commercial purpose or local purpose. -->
