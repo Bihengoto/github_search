@@ -40,7 +40,7 @@ NodeJS
 ## Known Bugs
 NO known bugs as at the moment please reach to us if you see any.
 
-<!-- ## Behavior Driven Development
+## Behavior Driven Development
 
 
 | __Behavior__  | __Input example__ | __Output example__ |
@@ -65,4 +65,4 @@ For more information on the app or if you may come across any issues you can con
 ### License
 *License is under MIT 2019*
 Copyright (c) 2019 **isaac bihengoto**
-This software is free to use and distribute, Therefore all rights and given to any user to modify and either use for Commercial purpose or local purpose. -->
+This software is free to use and distribute, Therefore all rights and given to any user to modify and either use for Commercial purpose or local purpose.
