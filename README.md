@@ -57,7 +57,7 @@ NO known bugs as at the moment please reach to us if you see any.
 * Angular Famework
 
 
-## You can view active website here #################
+## You can view active website here https://bihengoto.github.io/github_search/
 ## Support and Contact Details
 
 For more information on the app or if you may come across any issues you can contact me via email at isaacbihengoto@gmail.com
